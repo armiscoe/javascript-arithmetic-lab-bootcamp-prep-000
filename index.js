@@ -23,6 +23,6 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  parseInt('a' , 10)
+  parseInt('afgsfdg' , 10)
 }
   
